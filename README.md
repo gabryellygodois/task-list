@@ -1,5 +1,5 @@
 # 📝 Task List
-🔗 **Acesse a aplicação online:** [Clique aqui para testar](SEU_LINK_DA_VERCEL_AQUI)
+🔗 **Acesse a aplicação online:** [Clique aqui para testar]((https://task-list-black-chi.vercel.app/)
 
 Uma aplicação simples e funcional de Lista de Tarefas (To-Do List) desenvolvida com HTML5, CSS3 e JavaScript puro (Vanilla JS).
 
